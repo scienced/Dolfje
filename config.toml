@@ -1,3 +1,4 @@
+HUGO_VERSION = "0.24.1"
 title = "Osprey Example Site"
 baseURL = "https://tomanistor.com"
 tags = ["portfolio", "web design", "blog"]
